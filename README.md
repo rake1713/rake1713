@@ -52,20 +52,7 @@
 ![Snake animation](https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg)
 
 
-## 🏢 Мои организации (Кликабельно)
 
-<div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width="330" height="180"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width="330" height="180"/></a></td>
-</tr>
-</table>
-</div>
 
 > [!CAUTION]
 > Мои проекты также хранятся в организациях. \
