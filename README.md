@@ -2,14 +2,11 @@
     <img width=300 src="./assets/main.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=650&height=60&lines=Greetings%2C+wanderer!+I'm+RAMAZAN" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-    <a href="https://t.me/dimflix_official"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
-    <a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
-    <a href="https://orcid.org/0009-0002-5036-3822"><img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/></a>
-    <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
+    <a href="https://t.me/nedisnans"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
 </div>
 
 <div align="center">
@@ -17,46 +14,52 @@
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=1C2325&style=for-the-badge"></a>
 </div>
 
-<div align="center">
-    <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
-</div>
-
 ## 👻 Немного обо мне...
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DIMFLIX&data=followers,repositories,stars,commits&theme=dark)](https://github.com/DIMFLIX/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rake1713&data=followers,repositories,stars,commits&theme=dark)](https://github.com/rake1713/github-widgetbox)
 
-Я - **Full-Stack & Software Engineer** с особым уклоном в творчество и инновации. Мои действия всегда направлены на достижение высоких результатов и качественное исполнение поставленных задач. В жизни руководствуюсь саморазвитием, никогда не стою на месте.
+Я - **Full-Stack & Backend Developer** с особым уклоном в творчество и инновации. Мои действия всегда направлены на достижение высоких результатов и качественное исполнение поставленных задач. В жизни руководствуюсь саморазвитием, никогда не стою на месте.
 
-[**Многократный победитель международных соревнований**](#diplomas). 
-Включён в **государственный реестр лиц с выдающимися способностями**.
 
-В настоящее время занимаюсь разработкой open-source проектов и периодически выполняю заказы на фрилансе. Специализируюсь на создании сайтов, приложений, ботов, нейросетей.
+###💻 Tech Stack
 
-На данный момент изучаю Rust для разработки высокопроизводительных приложений, а так-же машинное обучение и нейросети.
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Discipline](https://img.shields.io/badge/Discipline%20-00C957?style=for-the-badge&logoColor=white)
+ ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Bot](https://img.shields.io/badge/Bot-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Книга](https://img.shields.io/badge/Книга-412991?style=for-the-badge&logo=book&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![BotFather](https://img.shields.io/badge/BotFather-000000?style=for-the-badge&logo=telegram&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![DBViewer](https://img.shields.io/badge/DBViewer-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=spacy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-5C5CFF?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL%20Injection-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-E60026?style=for-the-badge&logo=huawei&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-Deployed-orange?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Snake animation](https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg)
 
-```javascript
-const DIMFLIX = {
-    OS: ["Arch Linux"],
-    languages: {
-        highLevel: ["Python", "SQL"],
-        averageLevel: ["JavaScript"],
-        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
-    },
-    programming: {
-        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
-        frontend: ["HTML", "CSS/SCSS", "VueJS"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        machine-learning: ["vaex", "pandas", "opencv", "scikit-learn"],
-        webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
-        bots: ["aiogram", "pyrogram", "vkbottle"],
-        devOps: ["Docker", "Nginx", "Ngrok"],
-        GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
-            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
-        }
-    },
-    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
-};
-```
 
 ## 🏢 Мои организации (Кликабельно)
 
