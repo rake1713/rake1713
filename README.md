@@ -71,23 +71,15 @@
 > Мои проекты также хранятся в организациях. \
 > На самом деле, лучшие проекты часто хранятся именно там.
 
-## ☕ Поддержать меня
-Если вы хотите поддержать меня или любой из моих проектов, вы можете отправить пожертвование на следующие криптовалютные кошельки:
 
-| Криптовалюта | Адрес                                              |
-| ------------ | -------------------------------------------------- |
-| **TON / USDT(TON)**      | `UQB9qNTcAazAbFoeobeDPMML9MG73DUCAFTpVanQnLk3BHg3` |
-| **USDT (TRC20)**     | `TBTZ5RRMfGQQ8Vpf8i5N8DZhNxSum2rzAs`               |
-| **Ethereum** | `0x56e8bf8Ec07b6F2d6aEdA7Bd8814DB5A72164b13`       |
-| **Bitcoin**  | `bc1qt5urnw7esunf0v7e9az0jhatxrdd0smem98gdn`       |
+
 
 
 
 <details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX-OFFICIAL&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="DIMFLIX profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=DIMFLIX&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX&layout=compact&theme=transparent"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=DIMFLIX&show_icons=true&theme=transparent"/>
-    <img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<summary><h3>📊 Statistics | </h3> </summary>
+    <img alt="Ramazan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rake1713&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rake1713&layout=compact&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rake1713&show_icons=true&theme=transparent"/>
+    <img height="300px" alt="Ramazan's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=rake1713&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 </details>
