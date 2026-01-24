@@ -22,42 +22,33 @@
 
 ###💻 Tech Stack
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00599C?style=flat-square&logo=sqlite&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Discipline](https://img.shields.io/badge/Discipline%20-00C957?style=for-the-badge&logoColor=white)
- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Bot](https://img.shields.io/badge/Bot-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Книга](https://img.shields.io/badge/Книга-412991?style=for-the-badge&logo=book&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![BotFather](https://img.shields.io/badge/BotFather-000000?style=for-the-badge&logo=telegram&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![DBViewer](https://img.shields.io/badge/DBViewer-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=spacy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-5C5CFF?style=for-the-badge&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL Injection](https://img.shields.io/badge/SQL%20Injection-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
-![Huawei](https://img.shields.io/badge/Huawei-E60026?style=for-the-badge&logo=huawei&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-Deployed-orange?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Snake animation](https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg)
 
 
@@ -90,56 +81,7 @@
 | **Ethereum** | `0x56e8bf8Ec07b6F2d6aEdA7Bd8814DB5A72164b13`       |
 | **Bitcoin**  | `bc1qt5urnw7esunf0v7e9az0jhatxrdd0smem98gdn`       |
 
-<details open>
-<summary><a name="patents"><a/><h2>🥇 Patents</h2></summary>
-    <div align="center">
-        <img src="./assets/patents/1.png" width=200 alt=""/>
-        <img src="./assets/patents/1_1.png" width=200 alt=""/>
-    </div>
-</details>
 
-<details open>
-<summary><a name="diplomas"><a/><h2>🏆 Призовые места и дипломы</h2></summary>
-    <div align="center">
-        <img src="./assets/diploms/it-planet-ai-спорттех-финал.png" width=200 alt="IT-Planet Спорттех Финал 3 Место"/>
-        <img src="./assets/diploms/Международный-ВШЭ-Дроны.jpg" width=200 alt="Международный ВШЭ - Дроны"/>
-        <img src="./assets/diploms/Международный-ВШЭ.png" width=200 alt="Высшая Школа Экономики Международный хакатон"/>
-        <img src="./assets/diploms/Диплом-Минина.png" width=200 alt="MininCode Диплом"/>
-        <img src="./assets/diploms/IT-Чкалов.png" width=200 alt="IT чкалов"/>
-    </div>
-</details>
-
-<details open>
-<summary><a name="significant-certificates"><a/><h2>⚜️ Значимые сертификаты</h2></summary>
-<img src="./assets/significant-certificates/пфо-цп.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/цп-омск.png" width=200 alt="Омск, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/Атомик-Хак.png" width=200 alt="Атомик Хак сертификат"/>
-<img src="./assets/significant-certificates/москва.png" width=200 alt="Москва, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/хабаровск.png" width=200 alt="Хабаровск, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/всероссийский.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-<img src="./assets/significant-certificates/SberGarage.png" width=200 alt="Сбер гараж сертификат"/>
-<img src="./assets/significant-certificates/it-planet ai-спорттех.png" width=200 alt="IT-Planet Спорттех"/>
-<img src="./assets/significant-certificates/it-planet postgresql.png" width=200 alt="IT-Planet PostgreSQL"/>
-<img src="./assets/significant-certificates/Сертификат-Минина.png" width=200 alt="MininCode сертификат"/>
-</details>
-
-<details close>
-<summary><a name="certificates"><a/><h2>🗂 Обычные сертификаты</h2></summary>
-    <div align="center">
-        <img src="./assets/certificates/atomic-hack-3.0.jpg" width=200 alt="Atomic Hack 3.0 Hackaton"/>
-        <img src="./assets/certificates/HR-T1.png" width=200 alt="HRSystem T1 Hackaton"/>
-        <img src="./assets/certificates/цифровизация-во-благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
-        <img src="./assets/certificates/ProjectSystemINNOHack.png" width=200 alt="ProjectSystem INNOHack"/>
-        <img src="./assets/certificates/Comparison-ResumeVacancy.png" width=200 alt="Comparison ResumeVacancy"/>
-        <img src="./assets/certificates/траектория-будущего-python.png" width=200 alt="траектория будущего python"/>
-        <img src="./assets/certificates/траектория-будущего-мобильная-разработка.png" width=200 alt="траектория будущего мобильная разработка"/>
-        <img src="./assets/certificates/траектория-будущего-devops.png" width=200 alt="траектория будущего devops"/>
-        <img src="./assets/certificates/траектория-будущего-нейросетевое-искусство.png" width=200 alt="траектория будущего нейросетевое искусство"/>
-        <img src="./assets/certificates/траектория-будущего-кибербезопасность.png" width=200 alt="траектория будущего кибербезопасность"/>
-        <img src="./assets/certificates/траектория-будущего-графический-дизайн.png" width=200 alt="траектория будущего графический дизайн"/>
-        <img src="./assets/certificates/траектория-будущего-финансовая-грамотность.png" width=200 alt="траектория будущего финансовая грамотность"/>
-    </div>
-</details>
 
 <details open>
 <summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX-OFFICIAL&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
