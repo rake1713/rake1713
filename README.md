@@ -67,5 +67,5 @@
     <img alt="Ramazan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rake1713&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rake1713&layout=compact&theme=transparent"/>
     <img src="https://github-readme-stats.vercel.app/api?username=rake1713&show_icons=true&theme=transparent"/>
-    <img height="300px" alt="Ramazan's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=rake1713&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact(https://wakatime.com/@rake1713)" /><br>
+    <img height="300px" alt="Ramazan's Top Languages WakaTime" src="https://wakatime.com/@rake1713" /><br>
 </details>
