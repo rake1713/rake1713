@@ -71,4 +71,4 @@
 </details>
 
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rake1713&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rake1713&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact&cache_bust=123)
