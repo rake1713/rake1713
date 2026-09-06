@@ -50,6 +50,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-5C5CFF?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-3776AB?style=for-the-badge&logo=claude&logoColor=white)
+![RxJS](https://img.shields.io/badge/Rxjs-3776AB?style=for-the-badge&logo=rxjs&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL Injection](https://img.shields.io/badge/SQL%20Injection-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
